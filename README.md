@@ -1,3 +1,3 @@
 # shortSUD
-Najkrótszy SUD 
-Główny bohater ginie na samym początku!
+Clockwork SUD 
+Nauka javy - pierwsza gra sud
